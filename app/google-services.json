@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759813228788",
+    "firebase_url": "https://weatherovercast.firebaseio.com",
+    "project_id": "weatherovercast",
+    "storage_bucket": "weatherovercast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759813228788:android:76ec4e22f9f870c2",
+        "android_client_info": {
+          "package_name": "com.example.pratik.weatherovercast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759813228788-ncovegbs56lt2mpja7af8jmfti0197tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pratik.weatherovercast",
+            "certificate_hash": "38a0ad9da4327fab2a5409316cb2e41148b795fb"
+          }
+        },
+        {
+          "client_id": "759813228788-e1t0uf0jg2gva9hbh8urcvtt8ab30lsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8GcL7X69d6IqmFE2dKGefA7gIjkWArs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759813228788-e1t0uf0jg2gva9hbh8urcvtt8ab30lsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
